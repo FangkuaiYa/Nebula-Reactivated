@@ -1,3 +1,7 @@
+# 跟原仓库合并了，全都去[Lin’s Nebula-R-LTS](https://github.com/ZsFabTest/Nebula-R-LTS)
+
+
+
 # Nebula-Reactivated
 ## This mod was developed based on [Lin’s Nebula-R-LTS](https://github.com/ZsFabTest/Nebula-R-LTS) and [Dolly’s Nebula-OLD](https://github.com/Dolly1016/Nebula-OLD-), We aim to ensure it runs on the latest version of Among Us and provides the basic gameplay experience
 
